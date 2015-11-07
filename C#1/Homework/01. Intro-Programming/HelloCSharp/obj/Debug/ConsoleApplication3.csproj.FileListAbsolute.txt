@@ -1,0 +1,6 @@
+c:\users\vladeto\documents\visual studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\vladeto\documents\visual studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\vladeto\documents\visual studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\vladeto\documents\visual studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\vladeto\documents\visual studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\vladeto\documents\visual studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

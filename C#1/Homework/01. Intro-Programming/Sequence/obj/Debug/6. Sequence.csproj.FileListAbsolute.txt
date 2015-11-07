@@ -1,0 +1,5 @@
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Quotes in Strings\bin\Debug\Quotes in Strings.exe.config
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Quotes in Strings\bin\Debug\Quotes in Strings.exe
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Quotes in Strings\bin\Debug\Quotes in Strings.pdb
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Quotes in Strings\obj\Debug\07. Quotes in Strings.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Quotes in Strings\obj\Debug\Quotes in Strings.exe
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Quotes in Strings\obj\Debug\Quotes in Strings.pdb

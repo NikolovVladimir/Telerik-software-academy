@@ -1,0 +1,6 @@
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Inside a Circle and Outside of a Rectangle\bin\Debug\Inside a Circle and Outside of a Rectangle.exe.config
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Inside a Circle and Outside of a Rectangle\bin\Debug\Inside a Circle and Outside of a Rectangle.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Inside a Circle and Outside of a Rectangle\bin\Debug\Inside a Circle and Outside of a Rectangle.pdb
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Inside a Circle and Outside of a Rectangle\obj\Debug\10. Inside a Circle and Outside of a Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Inside a Circle and Outside of a Rectangle\obj\Debug\Inside a Circle and Outside of a Rectangle.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Inside a Circle and Outside of a Rectangle\obj\Debug\Inside a Circle and Outside of a Rectangle.pdb

@@ -1,0 +1,6 @@
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Print Company Information\bin\Debug\Print Company Information.exe.config
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Print Company Information\bin\Debug\Print Company Information.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Print Company Information\bin\Debug\Print Company Information.pdb
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Print Company Information\obj\Debug\02. Print Company Information.csprojResolveAssemblyReference.cache
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Print Company Information\obj\Debug\Print Company Information.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Print Company Information\obj\Debug\Print Company Information.pdb

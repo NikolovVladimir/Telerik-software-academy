@@ -1,0 +1,6 @@
+c:\users\vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
+c:\users\vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb
+c:\users\vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\03. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+c:\users\vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb

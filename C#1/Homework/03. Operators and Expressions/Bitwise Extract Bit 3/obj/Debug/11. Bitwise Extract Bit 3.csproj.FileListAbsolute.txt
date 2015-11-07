@@ -1,0 +1,6 @@
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Bitwise Extract Bit 3\bin\Debug\Bitwise Extract Bit 3.exe.config
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Bitwise Extract Bit 3\bin\Debug\Bitwise Extract Bit 3.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Bitwise Extract Bit 3\bin\Debug\Bitwise Extract Bit 3.pdb
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Bitwise Extract Bit 3\obj\Debug\11. Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Bitwise Extract Bit 3\obj\Debug\Bitwise Extract Bit 3.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Bitwise Extract Bit 3\obj\Debug\Bitwise Extract Bit 3.pdb

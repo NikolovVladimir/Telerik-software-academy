@@ -1,0 +1,5 @@
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

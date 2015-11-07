@@ -1,0 +1,6 @@
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\Formatting Numbers\bin\Debug\Formatting Numbers.exe.config
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\Formatting Numbers\bin\Debug\Formatting Numbers.exe
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\Formatting Numbers\bin\Debug\Formatting Numbers.pdb
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\Formatting Numbers\obj\Debug\05. Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\Formatting Numbers\obj\Debug\Formatting Numbers.exe
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\Formatting Numbers\obj\Debug\Formatting Numbers.pdb

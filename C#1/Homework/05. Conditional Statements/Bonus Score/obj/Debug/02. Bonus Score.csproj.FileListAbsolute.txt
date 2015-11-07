@@ -1,0 +1,6 @@
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\bin\Debug\Bonus Score.exe.config
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\obj\Debug\02. Bonus Score.csprojResolveAssemblyReference.cache
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\bin\Debug\Bonus Score.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\bin\Debug\Bonus Score.pdb
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\obj\Debug\Bonus Score.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\obj\Debug\Bonus Score.pdb

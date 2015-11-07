@@ -1,0 +1,6 @@
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Extract Bit from Integer\bin\Debug\Extract Bit from Integer.exe.config
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Extract Bit from Integer\bin\Debug\Extract Bit from Integer.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Extract Bit from Integer\bin\Debug\Extract Bit from Integer.pdb
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Extract Bit from Integer\obj\Debug\12. Extract Bit from Integer.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Extract Bit from Integer\obj\Debug\Extract Bit from Integer.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Extract Bit from Integer\obj\Debug\Extract Bit from Integer.pdb

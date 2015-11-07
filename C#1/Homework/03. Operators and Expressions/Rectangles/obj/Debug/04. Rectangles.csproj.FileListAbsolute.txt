@@ -1,0 +1,6 @@
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework - Operators and Expressions\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Rectangles\obj\Debug\04. Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Rectangles\obj\Debug\Rectangles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.exe.config
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Strings and Objects\obj\Debug\06. Strings and Objects.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.exe
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Strings and Objects\bin\Debug\Strings and Objects.pdb
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Strings and Objects\obj\Debug\Strings and Objects.exe
+C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\HW - Primitive Data Types and Variables\Strings and Objects\obj\Debug\Strings and Objects.pdb

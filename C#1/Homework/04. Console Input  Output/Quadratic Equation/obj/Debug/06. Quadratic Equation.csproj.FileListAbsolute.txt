@@ -1,0 +1,6 @@
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Quadratic Equation\bin\Debug\Quadratic Equation.exe.config
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Quadratic Equation\bin\Debug\Quadratic Equation.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Quadratic Equation\bin\Debug\Quadratic Equation.pdb
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Quadratic Equation\obj\Debug\06. Quadratic Equation.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Quadratic Equation\obj\Debug\Quadratic Equation.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Quadratic Equation\obj\Debug\Quadratic Equation.pdb

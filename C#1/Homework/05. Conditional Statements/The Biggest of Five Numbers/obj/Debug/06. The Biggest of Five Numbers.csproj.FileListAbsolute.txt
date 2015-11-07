@@ -1,0 +1,5 @@
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\The Biggest of Five Numbers\bin\Debug\The Biggest of Five Numbers.exe.config
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\The Biggest of Five Numbers\bin\Debug\The Biggest of Five Numbers.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\The Biggest of Five Numbers\bin\Debug\The Biggest of Five Numbers.pdb
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\The Biggest of Five Numbers\obj\Debug\The Biggest of Five Numbers.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\The Biggest of Five Numbers\obj\Debug\The Biggest of Five Numbers.pdb

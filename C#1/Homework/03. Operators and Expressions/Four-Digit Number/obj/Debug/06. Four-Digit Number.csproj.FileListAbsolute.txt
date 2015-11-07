@@ -1,0 +1,6 @@
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Four-Digit Number\bin\Debug\Four-Digit Number.exe.config
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Four-Digit Number\bin\Debug\Four-Digit Number.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Four-Digit Number\bin\Debug\Four-Digit Number.pdb
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Four-Digit Number\obj\Debug\06. Four-Digit Number.csprojResolveAssemblyReference.cache
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Four-Digit Number\obj\Debug\Four-Digit Number.exe
+C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Four-Digit Number\obj\Debug\Four-Digit Number.pdb

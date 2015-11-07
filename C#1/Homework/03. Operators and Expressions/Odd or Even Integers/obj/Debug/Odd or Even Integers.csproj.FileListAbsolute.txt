@@ -1,0 +1,1 @@
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Odd or Even Integers\bin\Debug\Odd or Even Integers.exe.config

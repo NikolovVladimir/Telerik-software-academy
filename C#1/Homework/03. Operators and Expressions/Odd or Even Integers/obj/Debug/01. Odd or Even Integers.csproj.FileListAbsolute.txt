@@ -1,0 +1,6 @@
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Odd or Even Integers\bin\Debug\Odd or Even Integers.exe.config
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Odd or Even Integers\bin\Debug\Odd or Even Integers.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Odd or Even Integers\bin\Debug\Odd or Even Integers.pdb
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Odd or Even Integers\obj\Debug\01. Odd or Even Integers.csprojResolveAssemblyReference.cache
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Odd or Even Integers\obj\Debug\Odd or Even Integers.exe
+c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Odd or Even Integers\obj\Debug\Odd or Even Integers.pdb
