@@ -1,1 +1,0 @@
-c:\users\vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\HW - Primitive Data Types and Variables\bin\Debug\HW - Primitive Data Types and Variables.exe.config

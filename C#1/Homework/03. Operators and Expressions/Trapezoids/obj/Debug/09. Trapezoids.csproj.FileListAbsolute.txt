@@ -1,6 +1,0 @@
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Trapezoids\bin\Debug\Trapezoids.exe.config
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Trapezoids\bin\Debug\Trapezoids.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Trapezoids\bin\Debug\Trapezoids.pdb
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Trapezoids\obj\Debug\09. Trapezoids.csprojResolveAssemblyReference.cache
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Trapezoids\obj\Debug\Trapezoids.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Trapezoids\obj\Debug\Trapezoids.pdb

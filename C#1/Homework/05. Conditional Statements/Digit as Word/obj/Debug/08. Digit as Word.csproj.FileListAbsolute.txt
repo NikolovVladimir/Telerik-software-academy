@@ -1,6 +1,0 @@
-c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Digit as Word\bin\Debug\Digit as Word.exe.config
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Conditional Statements\Digit as Word\bin\Debug\Digit as Word.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Conditional Statements\Digit as Word\bin\Debug\Digit as Word.pdb
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Conditional Statements\Digit as Word\obj\Debug\08. Digit as Word.csprojResolveAssemblyReference.cache
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Conditional Statements\Digit as Word\obj\Debug\Digit as Word.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Conditional Statements\Digit as Word\obj\Debug\Digit as Word.pdb

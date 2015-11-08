@@ -1,9 +1,0 @@
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Current Date and Time\obj\Debug\14. Current Date and Time.csprojResolveAssemblyReference.cache
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Current Date and Time\bin\Debug\Current Date and Time.exe.config
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Current Date and Time\bin\Debug\Current Date and Time.exe
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Current Date and Time\bin\Debug\Current Date and Time.pdb
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Current Date and Time\obj\Debug\Current Date and Time.exe
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Current Date and Time\obj\Debug\Current Date and Time.pdb
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\“Intro-Programming-Homework”\Current Date and Time\bin\Debug\Current Date and Time.exe.config
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\“Intro-Programming-Homework”\Current Date and Time\obj\Debug\Current Date and Time.exe
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\“Intro-Programming-Homework”\Current Date and Time\obj\Debug\Current Date and Time.pdb

@@ -1,6 +1,0 @@
-C:\Users\Vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Null Values Arithmetic\bin\Debug\Null Values Arithmetic.exe.config
-C:\Users\Vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Null Values Arithmetic\bin\Debug\Null Values Arithmetic.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Null Values Arithmetic\bin\Debug\Null Values Arithmetic.pdb
-C:\Users\Vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Null Values Arithmetic\obj\Debug\12. Null Values Arithmetic.csprojResolveAssemblyReference.cache
-C:\Users\Vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Null Values Arithmetic\obj\Debug\Null Values Arithmetic.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\HW - Primitive Data Types and Variables\Null Values Arithmetic\obj\Debug\Null Values Arithmetic.pdb

@@ -1,1 +1,0 @@
-c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Digit as Word\bin\Debug\Digit as Word.exe.config

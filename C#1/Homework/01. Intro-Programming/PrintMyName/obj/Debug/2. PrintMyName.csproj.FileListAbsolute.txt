@@ -1,3 +1,0 @@
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

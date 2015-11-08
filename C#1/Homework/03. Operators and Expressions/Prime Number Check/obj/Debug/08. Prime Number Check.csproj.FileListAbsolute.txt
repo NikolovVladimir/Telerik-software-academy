@@ -1,6 +1,0 @@
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Prime Number Check\bin\Debug\Prime Number Check.exe.config
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Prime Number Check\bin\Debug\Prime Number Check.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Prime Number Check\bin\Debug\Prime Number Check.pdb
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Prime Number Check\obj\Debug\08. Prime Number Check.csprojResolveAssemblyReference.cache
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Prime Number Check\obj\Debug\Prime Number Check.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Prime Number Check\obj\Debug\Prime Number Check.pdb

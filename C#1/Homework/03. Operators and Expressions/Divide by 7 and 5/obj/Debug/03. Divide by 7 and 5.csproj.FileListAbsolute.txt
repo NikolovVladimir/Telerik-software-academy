@@ -1,6 +1,0 @@
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework - Operators and Expressions\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe.config
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework - Operators and Expressions\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework - Operators and Expressions\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.pdb
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework - Operators and Expressions\Divide by 7 and 5\obj\Debug\03. Divide by 7 and 5.csprojResolveAssemblyReference.cache
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework - Operators and Expressions\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.exe
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\Homework - Operators and Expressions\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.pdb

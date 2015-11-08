@@ -1,6 +1,0 @@
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Point in a Circle\bin\Debug\Point in a Circle.exe.config
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Point in a Circle\bin\Debug\Point in a Circle.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Point in a Circle\bin\Debug\Point in a Circle.pdb
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Point in a Circle\obj\Debug\07. Point in a Circle.csprojResolveAssemblyReference.cache
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Point in a Circle\obj\Debug\Point in a Circle.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Point in a Circle\obj\Debug\Point in a Circle.pdb

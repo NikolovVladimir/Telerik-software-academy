@@ -1,1 +1,0 @@
-c:\users\vladeto\documents\visual studio 2015\Projects\Homework Console Input  Output\Sum of 3 Numbers\bin\Debug\Sum of 3 Numbers.exe.config

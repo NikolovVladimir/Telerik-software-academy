@@ -1,5 +1,0 @@
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Squere Root\bin\Debug\Squere Root.exe.config
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Squere Root\bin\Debug\Squere Root.exe
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Squere Root\bin\Debug\Squere Root.pdb
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Squere Root\obj\Debug\Squere Root.exe
-C:\Users\Vladeto\Documents\Visual Studio 2013\Projects\“Intro-Programming-Homework”\Squere Root\obj\Debug\Squere Root.pdb

@@ -1,6 +1,0 @@
-c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Gravitation on the Moon\bin\Debug\Gravitation on the Moon.exe.config
-c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Gravitation on the Moon\obj\Debug\02. Gravitation on the Moon.csprojResolveAssemblyReference.cache
-c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Gravitation on the Moon\bin\Debug\Gravitation on the Moon.exe
-c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Gravitation on the Moon\bin\Debug\Gravitation on the Moon.pdb
-c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Gravitation on the Moon\obj\Debug\Gravitation on the Moon.exe
-c:\users\vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Gravitation on the Moon\obj\Debug\Gravitation on the Moon.pdb

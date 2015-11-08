@@ -1,3 +1,0 @@
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\“Intro-Programming-Homework”\First and Last Name\bin\Debug\ConsoleApplication7.exe.config
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\“Intro-Programming-Homework”\First and Last Name\obj\Debug\ConsoleApplication7.exe
-C:\Users\Vladeto\Documents\Visual Studio 2015\Projects\“Intro-Programming-Homework”\First and Last Name\obj\Debug\ConsoleApplication7.pdb

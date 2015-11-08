@@ -1,6 +1,0 @@
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Check a Bit at Given Position\bin\Debug\Check a Bit at Given Position.exe.config
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Check a Bit at Given Position\obj\Debug\13. Check a Bit at Given Position.csprojResolveAssemblyReference.cache
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Check a Bit at Given Position\bin\Debug\Check a Bit at Given Position.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Check a Bit at Given Position\bin\Debug\Check a Bit at Given Position.pdb
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Check a Bit at Given Position\obj\Debug\Check a Bit at Given Position.exe
-C:\Users\Vladeto\documents\visual studio 2015\Projects\Homework - Operators and Expressions\Check a Bit at Given Position\obj\Debug\Check a Bit at Given Position.pdb

@@ -1,3 +1,0 @@
-c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Check for a Play Card\bin\Debug\Check for a Play Card.exe.config
-c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Check for a Play Card\obj\Debug\Check for a Play Card.exe
-c:\users\vladeto\documents\visual studio 2015\Projects\Conditional Statements\Check for a Play Card\obj\Debug\Check for a Play Card.pdb
